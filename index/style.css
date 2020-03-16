@@ -1,0 +1,14 @@
+.carousel-new {
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+}
+
+.carousel {
+    display: inline-block;
+    line-height: normal;
+    width: 100%;
+    padding-top: 10px;
+    background-color: white;
+    padding-bottom: 10px;
+}
